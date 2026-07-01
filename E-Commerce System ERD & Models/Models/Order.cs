@@ -31,7 +31,7 @@ namespace E_Commerce_System_ERD___Models.Models
 
         [Required]
         [MaxLength(30)]
-        public string status { get; set; } = "Pending"; // default value 
+        public orderSatus status { get; set; } = orderSatus.Pending; // default value 
 
         [Required]
         [MaxLength(300)]
