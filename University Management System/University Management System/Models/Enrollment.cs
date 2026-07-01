@@ -24,17 +24,15 @@ namespace University_Management_System.Models
 
 
         [Required]
+        [ForeignKey("Student")]
         public int studentId { get; set; }  //ForeignKey
-
-        [ForeignKey(nameof(studentId))]
 
         //(Many-to-One)
         public Student Student { get; set; }  //Navigation property =>students who enroll
 
         [Required]
+        [ForeignKey("Course")]
         public int courseId { get; set; }  //ForeignKey
-
-        [ForeignKey(nameof(courseId))]
 
         //(Many-to-One)
         public Course  Course { get; set; } //Navigation property =>course which enroll

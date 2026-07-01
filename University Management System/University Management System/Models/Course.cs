@@ -15,7 +15,7 @@ namespace University_Management_System.Models
 
         [Required]
         [MaxLength(10)]
-        public string courseCode { get; set; } // user input
+        public string? courseCode { get; set; } // user input
 
         [Required]
         [MaxLength(150)]
@@ -37,12 +37,11 @@ namespace University_Management_System.Models
         //(One-to-Many)
         public Department Department { get; set; }  //Navigation property => one department has many courses 
 
-       
+        [ForeignKey("Instructor")]
         public int instructorId { get; set; }  //ForeignKey
 
-        [ForeignKey(nameof(instructorId))]
         //Many-to-One
-        public Instructor Instructor { get; set; } //Navigation property  => one instructor is teach many course
+        public Instructor? Instructor { get; set; } //Navigation property  => one instructor is teach many course
 
         //  One-to-Many in  Enrollment Table
         public List<Enrollment> Enrollments { get; set; } //Navigation property =>courses enroll many students

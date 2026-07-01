@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\university system erd \u0026 models\\university management system\\university management system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|solutionrelative:university management system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\university system erd \u0026 models\\university management system\\university management system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|solutionrelative:university management system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\university system erd \u0026 models\\university management system\\university management system\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|solutionrelative:university management system\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\university system erd \u0026 models\\university management system\\university management system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|solutionrelative:university management system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\university system erd \u0026 models\\university management system\\university management system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|solutionrelative:university management system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\university system erd \u0026 models\\university management system\\university management system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4499B747-1BDA-5487-7C5C-C6974CA8D948}|University Management System\\University Management System.csproj|solutionrelative:university management system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\University Management System\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "University Management System\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\University Management System\\Models\\Enrollment.cs",
+              "RelativeToolTip": "University Management System\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T05:20:27.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\University Management System\\Models\\Course.cs",
               "RelativeDocumentMoniker": "University Management System\\Models\\Course.cs",
               "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\University Management System\\Models\\Course.cs",
               "RelativeToolTip": "University Management System\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T11:29:09.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\University Management System\\Models\\Department.cs",
               "RelativeDocumentMoniker": "University Management System\\Models\\Department.cs",
               "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\University Management System\\Models\\Department.cs",
               "RelativeToolTip": "University Management System\\Models\\Department.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T11:28:37.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\University Management System\\Models\\Student.cs",
               "RelativeDocumentMoniker": "University Management System\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\University System ERD \u0026 Models\\University Management System\\University Management System\\Models\\Student.cs",
               "RelativeToolTip": "University Management System\\Models\\Student.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowCkAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T08:14:48.539Z",
               "EditorCaption": ""
