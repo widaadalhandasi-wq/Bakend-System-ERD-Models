@@ -15,10 +15,6 @@ namespace E_Commerce_System_ERD___Models.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]   // Auto-generated
         public int orderId { get; set; }  // system generated
 
-        [Required]
-        [ForeignKey ("User")]
-        public int userId { get; set; }   // user input
-
 
         [Required]
         public DateTime orderDate { get; set; }   // user input
@@ -43,6 +39,9 @@ namespace E_Commerce_System_ERD___Models.Models
         public string paymentMethod { get; set; }    // user input
 
 
+        [Required]
+        [ForeignKey("user")]
+        public int userId { get; set; }   // user input
         //one to many 
         public User user { get; set; } //Navigation Property =>order must be associated with exactly one user
 

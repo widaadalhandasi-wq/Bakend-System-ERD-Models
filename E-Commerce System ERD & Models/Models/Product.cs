@@ -33,8 +33,6 @@ namespace E_Commerce_System_ERD___Models.Models
         [MaxLength(300)]
         public string? imageUrl { get; set; }  // user input
 
-        [ForeignKey("Category")]
-        public int categoryId { get; set; }  // user input
         
         [Required]
         public DateTime createdAt { get; set; }  // user input
@@ -44,8 +42,10 @@ namespace E_Commerce_System_ERD___Models.Models
         //many to many 
         public List<OrderProduct> OrderProducts { get; set; } //Navigation Property => product can hve many order products
 
+        [ForeignKey("Category")]
+        public int categoryId { get; set; }  // user input
         //one to many
-        public Category Categories { get; set; } //Navigation Property => one catogry has many products 
+        public Category Category { get; set; } //Navigation Property => one catogry has many products 
        
         //one to many
         public List<Review> Reviews { get; set; } //Navigation Property => product has many Reviews

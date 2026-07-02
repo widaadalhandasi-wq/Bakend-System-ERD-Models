@@ -16,16 +16,6 @@ namespace E_Commerce_System_ERD___Models.Models
         public int reviewId { get; set; }  // system generated
 
         [Required]
-        [ForeignKey("User")]
-        public int userId { get; set; }   // user input
-
-
-        [Required]
-        [ForeignKey("Product")]
-        public int productId { get; set; }   // user input
-
-
-        [Required]
         [Range(1,5)]
         public int rating { get; set; }   // user input
 
@@ -37,10 +27,15 @@ namespace E_Commerce_System_ERD___Models.Models
         [Required]
         public DateTime reviewDate { get; set; }   // user input
 
+        [Required]
+        [ForeignKey("Product")]
+        public int productId { get; set; }   // user input
         //one to many
         public Product Product { get; set; } //Navigation Property => reviewes for one product
 
-
+        [Required]
+        [ForeignKey("User")]
+        public int userId { get; set; }   // user input
         //one to many
         public User User { get; set; } //Navigation Property => reviewes for one user
     }
