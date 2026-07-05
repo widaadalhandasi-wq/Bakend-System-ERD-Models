@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Migrations\\20260705114300_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:College Managment System\\Migrations\\20260705114300_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\collegecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\collegecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\models\\enrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\models\\enrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\models\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\models\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\models\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\models\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\college managment system\\college managment system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32E5E5A-870D-4E19-B5FE-D871E2A404FE}|College Managment System\\College Managment System.csproj|solutionrelative:college managment system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260705114300_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Migrations\\20260705114300_initialCreate.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Migrations\\20260705114300_initialCreate.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Migrations\\20260705114300_initialCreate.cs",
+              "RelativeToolTip": "College Managment System\\Migrations\\20260705114300_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:43:00.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Department.cs",
+              "RelativeToolTip": "College Managment System\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:43:01.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Course.cs",
+              "RelativeToolTip": "College Managment System\\Models\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:42:00.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollegeContext.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\CollegeContext.cs",
+              "RelativeDocumentMoniker": "College Managment System\\CollegeContext.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\CollegeContext.cs",
+              "RelativeToolTip": "College Managment System\\CollegeContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:34:26.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Program.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Program.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Program.cs",
+              "RelativeToolTip": "College Managment System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:39:38.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enrols.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Enrols.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Models\\Enrols.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Enrols.cs",
+              "RelativeToolTip": "College Managment System\\Models\\Enrols.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:13:18.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exams.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Exams.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Models\\Exams.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Exams.cs",
+              "RelativeToolTip": "College Managment System\\Models\\Exams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:42:31.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Faculty.cs",
+              "RelativeToolTip": "College Managment System\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:41:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hostel.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Hostel.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Models\\Hostel.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Hostel.cs",
+              "RelativeToolTip": "College Managment System\\Models\\Hostel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:41:44.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Subjects.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Models\\Subjects.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Subjects.cs",
+              "RelativeToolTip": "College Managment System\\Models\\Subjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:42:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "College Managment System\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\College Managment System\\College Managment System\\Models\\Student.cs",
+              "RelativeToolTip": "College Managment System\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:40:56.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
