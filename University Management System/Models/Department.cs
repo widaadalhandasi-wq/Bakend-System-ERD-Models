@@ -26,6 +26,7 @@ namespace University_Management_System.Models
 
         [Required]
         [Range(0.0, double.MaxValue)]
+        [Column(TypeName = "decimal(18,2)")]
         public decimal budget { get; set; } // user input
 
         [ForeignKey("Instructor")]

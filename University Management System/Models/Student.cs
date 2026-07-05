@@ -36,6 +36,7 @@ namespace University_Management_System.Models
 
         [Required]
         [Range(0.0, 4.0)]
+        [Column(TypeName = "decimal(3,2)")]
         public decimal gpa { get; set; }  // user input
 
         //  One-to-Many in  Enrollment Table

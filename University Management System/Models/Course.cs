@@ -38,7 +38,7 @@ namespace University_Management_System.Models
         public Department Department { get; set; }  //Navigation property => one department has many courses 
 
         [ForeignKey("Instructor")]
-        public int instructorId { get; set; }  //ForeignKey
+        public int? instructorId { get; set; }  //ForeignKey
 
         //Many-to-One
         public Instructor? Instructor { get; set; } //Navigation property  => one instructor is teach many course

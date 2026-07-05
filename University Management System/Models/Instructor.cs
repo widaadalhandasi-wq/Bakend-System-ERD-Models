@@ -36,6 +36,7 @@ namespace University_Management_System.Models
 
         [Required]
         [Range(0.01, double.MaxValue)]
+        [Column(TypeName = "decimal(18,2)")]
         public decimal salary { get; set; } // user input
 
 

@@ -3,8 +3,12 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        { }
+        //    // Static in-memory context — accessible by all functions without passing parameters
+        public static UniversityContext context = new UniversityContext();
+
+
+
+
     }
 }

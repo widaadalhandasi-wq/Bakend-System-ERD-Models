@@ -24,6 +24,7 @@ namespace E_Commerce_System_ERD___Models.Models
 
         [Required]
         [Range(0.01, double.MaxValue)]
+        [Column(TypeName = "decimal(18,2)")]
         public decimal price { get; set; }  // user input
 
         [Required]
